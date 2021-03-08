@@ -1,7 +1,7 @@
 class MyAccountPage {
 
   get title() {
-    return;
+    return $("h1");
   }
 }
 
